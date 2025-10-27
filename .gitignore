@@ -3,3 +3,6 @@ descargas/
 __pycache__/
 *.pyc
 .vscode/
+SECRETOS
+*.log
+.env

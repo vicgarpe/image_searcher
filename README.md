@@ -67,16 +67,15 @@ $env:OPENVERSE_CLIENT_SECRET = "..."
 Se recomienda trabajar en un **entorno virtual** y usar `requirements.txt`.
 
 ```bash
+git clone git@github.com:vicgarpe/image_searcher.git
+cd image_searcher
 python3 -m venv .venv
-source .venv/bin/activate             # (Windows: .venv\Scripts\activate)
+# bash source .venv/bin/activate             
+.venv\Scripts\activate
 pip install -r requirements.txt
-```
-
-**requirements.txt (sugerido):**
-```
-requests
-streamlit
-flask
+# establecemos las variables de entorno
+# bash source export_env.sh
+.\export_env.ps1
 ```
 
 ---
