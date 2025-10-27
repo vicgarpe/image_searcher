@@ -1,0 +1,4 @@
+requests
+#front-end's
+streamlit
+flask

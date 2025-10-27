@@ -1,0 +1,38 @@
+{
+  "unsplash": {
+    "user": "vicgarpe@uchceu.es",
+    "base_url": "https://api.unsplash.com",
+    "developer_portal": "https://unsplash.com/oauth/applications",
+    "access_key_env": "UNSPLASH_KEY",
+    "dry": false
+  },
+  "pexels": {
+    "user": "victorgpenyas@hotmail.com",
+    "base_url": "https://api.pexels.com/v1",
+    "developer_portal": "https://www.pexels.com/api/",
+    "access_key_env": "PEXELS_KEY",
+    "dry": false
+  },
+  "pixabay": {
+    "user": "victorgpenyas@hotmail.com",
+    "base_url": "https://pixabay.com/api",
+    "developer_portal": "https://pixabay.com/api/docs/",
+    "access_key_env": "PIXABAY_API_KEY",
+    "dry": false
+  },
+  "openverse": {
+    "client_id": "jPoIFaajnBHDWIHmdRaeDjspw1kz2stNyaTbmnof",
+    "base_url": "https://api.openverse.org",
+    "developer_portal": "https://api.openverse.org/",
+    "client_secret_env": "OPENVERSE_CLIENT_SECRET",
+    "dry": false
+  },
+  "wikimedia": {
+    "user": "",
+    "user_agent": "victor (mailto:vicgarpe@uchceu.es)",
+    "base_url": "https://commons.wikimedia.org/w/api.php",
+    "developer_portal": "https://www.mediawiki.org/wiki/API:Main_page",
+    "access_key_env": "",
+    "dry": false
+  }
+}
